@@ -1,9 +1,28 @@
 ## Try it out ----> `https://react-tic-tac-toe-beta-two.vercel.app/`
 
+<br>
+
+# TIc-Tac-Toe Game
+
+it's a simple tic-tac-toe game made in react with a clean minimalist design.
+
+### Features:
+  <li>Two players
+  <li>Take back move
+  <li>View game history
+<br> 
+<br>
+    
 ![](images/preview1.png)
 
+<br>
 
+<br>
 
+![](images/Preview2.png)
+
+##
+<br>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
