@@ -1,6 +1,6 @@
 ## Try it out ----> `https://react-tic-tac-toe-beta-two.vercel.app/`
 
-![] (images/preview1.png)
+![](images/preview1.png)
 
 
 
