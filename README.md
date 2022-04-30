@@ -1,4 +1,4 @@
-## Try it out ----> `https://react-tic-tac-toe-beta-two.vercel.app/`
+## Try it out ---->  `https://react-tic-tac-toe-beta-two.vercel.app/`
 
 <br>
 
