@@ -4,7 +4,7 @@
 
 # TIc-Tac-Toe Game
 
-it's a simple tic-tac-toe game made in react with a clean minimalist design.
+it's a simple tic-tac-toe game made in React with a clean minimalist design.
 
 ### Features:
   <li>Two players
